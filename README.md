@@ -10,7 +10,7 @@ Data Loading and Cleaning: This is the first step of getting started with powerB
 
 Data Relationship Modeling: This is the second and crucial step for data analysis, in this step we make connection between the tables following one to many relationship. Here consumers and restaurants table having distinct primary key only are kept on one side and others tables on many side. (see fig.)
 
-<img width="554" alt="image" src="https://user-images.githubusercontent.com/44741582/211062347-97eb6738-586e-46d5-b9ef-a32589b77c79.png">
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/44741582/211063984-7c585f08-edef-41c3-870d-9e8bbd64dea0.png">
 
 Creating Calculated Columns and Explicit Measures using DAX: In data analysis we will make a use of very powerful Data Analysis Expression language. We can create new metrics and columns to gain more valuable insights from our data and drill down to more specific level. We have created calculated columns such as cuisines ordered in consumers table and order taken in restaurants table, also created measures like total restaurants, total cuisines, highly satisfied consumers/restaurants etc.
 
