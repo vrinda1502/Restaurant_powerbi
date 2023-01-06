@@ -2,6 +2,8 @@
 
 Problem Statement: To identify the restaurant in Mexico, which is highly rated and also to identify the restaurant for the future investments. Also, analyze the consumer preferences and demographics effect.
 
+File link->  https://app.powerbi.com/view?r=eyJrIjoiYjUyOWI2Y2EtOTNlNy00MzIwLWIzNDMtOTdkOTVhYzYyYmMzIiwidCI6IjhhOWY5MjMzLThlYmYtNGQ1OS1iYzQwLWU3NWJmNDUzZWI4OCJ9
+
 About Data: The dataset is from 2012 real consumers, available at Restaurant Ratings Dataset. It contains 5 csv files : consumer_preferences, consumers, ratings, restaurants_cuisines, restaurants.
 
 Before making a visualization using the data in powerBI, we will follow certain steps as mentioned below:
